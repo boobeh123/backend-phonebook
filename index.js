@@ -40,6 +40,7 @@ app.get('/', (request, response) => {
     response.send(`
     <nav>
     <ul>
+    <span style="float:right; margin: 0 1rem;"><a href="https://github.com/boobeh123/backend-phonebook" style="text-decoration: none;" target=_blank>GitHub</a></span>
     <span style="float:right; margin: 0 1rem;"><a href="/api/persons" style="text-decoration: none;" target=_blank>Contact list</a></span>
     <span style="float:right; margin: 0 1rem;"><a href="/info" style="text-decoration: none;">Contact info</a></span>
     </ul>
@@ -75,6 +76,7 @@ app.get('/info', (request, response) => {
     response.send(`
     <nav>
     <ul>
+    <span style="float:right; margin: 0 1rem;"><a href="https://github.com/boobeh123/backend-phonebook" style="text-decoration: none;" target=_blank>GitHub</a></span>
     <span style="float:right; margin: 0 1rem;"><a href="/api/persons" style="text-decoration: none;">Contact list</a></span>
     <span style="float:right; margin: 0 1rem;"><a href="/" style="text-decoration: none;">Home  </a></span>
     </ul>
