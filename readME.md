@@ -1,11 +1,13 @@
 ## Description
 A back-end Node application that uses the Express framework to return a hardcoded list of phonebook entries. Its API accepts GET, DELETE, & POST requests.
 
-(DEAD-LINK-HEROKU-NOT-FREE-ANYMORE) 
+Edit: (New deployment)
 
-The project is deployed here: https://mysterious-island-88506.herokuapp.com/
+The project is deployed here: https://backend-phonebook-2fqs.onrender.com/
 
-(DEAD-LINK-HEROKU-NOT-FREE-ANYMORE) 
+(Previous deployment, heroku no longer free)
+
+~~The project is deployed here: https://mysterious-island-88506.herokuapp.com/~~
 
 ## Demo
 ![demo](pbdemo.gif)
